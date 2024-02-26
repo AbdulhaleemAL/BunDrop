@@ -1,0 +1,124 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Classic Cheeseburger",
+      "description": "Perfect cheecy burger with melted cheese, lettuce, tomato, and pickles.",
+      "category": "burgers",
+      "price": 8.99,
+      "image": "Cheesburger.png"
+    },
+    {
+      "id": 2,
+      "name": "Bacon Burger",
+      "description": "Bacon lover burger. A lot of bacon with extra bacon.",
+      "category": "burgers",
+      "price": 9.99,
+      "image": "Baconburger.png"
+    },
+    {
+      "id": 3,
+      "name": "Spicy Jalapeno Burger",
+      "description": "Hottie burger for hotties, with jalapenos and spicy mayo.",
+      "category": "burgers",
+      "price": 7.99,
+      "image": "Jalapeno burger.png"
+    },
+    {
+      "id": 4,
+      "name": "Mushroom Swiss Burger",
+      "description": "Mushrooms and melted Swiss cheese.",
+      "category": "burgers",
+      "price": 9.49,
+      "image": "mushroom burger.png"
+    },
+    {
+      "id": 5,
+      "name": "Veggie Burger",
+      "description": "A vegetarian patty and fresh toppings.",
+      "category": "burgers",
+      "price": 7.99,
+      "image": "Veggie.png"
+    },
+    {
+      "id": 6,
+      "name": "French Fries",
+      "description": "Golden fries.",
+      "category": "sides",
+      "price": 3.99,
+      "image": "Fries.png"
+    },
+    {
+      "id": 7,
+      "name": "Onion Rings",
+      "description": "Crunchy onion rings.",
+      "category": "sides",
+      "price": 4.99,
+      "image": "Onionrings.png"
+    },
+    {
+      "id": 8,
+      "name": "Loaded Nachos",
+      "description": "Tortilla chips topped with melted cheese, jalapenos, salsa, and sour cream.",
+      "category": "sides",
+      "price": 6.99,
+      "image": "Nachos.png"
+    },
+    {
+      "id": 9,
+      "name": "Sweet Potato Fries",
+      "description": "Sweet potato fries.",
+      "category": "sides",
+      "price": 4.99,
+      "image": "Sötpotatis.png"
+    },
+    {
+      "id": 10,
+      "name": "Wings",
+      "description": "Tender chicken wings.",
+      "category": "sides",
+      "price": 7.99,
+      "image": "Wings.png"
+    },
+    {
+      "id": 11,
+      "name": "Calips",
+      "description": "Calips soda, refreshing as always.",
+      "category": "drinks",
+      "price": 2.99,
+      "image": "Calips.png"
+    },
+    {
+      "id": 12,
+      "name": "Frida",
+      "description": "Frida lemonade. ",
+      "category": "drinks",
+      "price": 2.99,
+      "image": "Frida.png"
+    },
+    {
+      "id": 13,
+      "name": "Energy",
+      "description": "Boost you'r energy.",
+      "category": "drinks",
+      "price": 4.99,
+      "image": "Energy.png"
+    },
+    {
+      "id": 14,
+      "name": "Milkshake",
+      "description": "Creamy chocolate milkshake",
+      "category": "drinks",
+      "price": 4.99,
+      "image": "Milkshake.png"
+    },
+    {
+      "id": 15,
+      "name": "Olipop",
+      "description": "Refreshing citrus soda.",
+      "category": "drinks",
+      "price": 3.99,
+      "image": "Olipop.png"
+    }
+  ]
+}

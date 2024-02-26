@@ -1,0 +1,47 @@
+.card-container {
+  background-color: rgba(10, 136, 10, 0.5);
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.item-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.item-description {
+  font-size: 1rem;
+  margin-bottom: 10px;
+  color: white;
+}
+
+
+.item-price {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.btn-order {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.btn-addToCart:hover {
+  background-color: #e53935;
+}
+
+h1{
+  text-align: center;
+}

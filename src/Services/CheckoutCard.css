@@ -1,0 +1,97 @@
+.checkout-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 50px;
+}
+
+.order-summary {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: rgba(0,0,0,0.3);
+  color: white;
+}
+
+.order-summary h2 {
+  color: white;
+  margin-top: 0;
+}
+
+.order-summary div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.order-summary div:last-child {
+  margin-bottom: 0;
+}
+
+.order-summary p {
+  margin: 0;
+}
+
+.payment-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.payment-container form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: rgba(0,0,0,0.3);
+  color: white;
+}
+
+.payment-container label {
+  margin-bottom: 10px;
+}
+
+.payment-container select {
+  margin-bottom: 20px;
+}
+
+.payment-container button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.payment-container button:hover {
+  background-color: #0069d9;
+}
+
+.btn-menu {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.btn-menu :hover {
+  background-color: #0069d9;
+}

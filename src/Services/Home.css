@@ -1,0 +1,41 @@
+.main-container {
+  display: flex;
+  /* background-color: #f19b61; */
+}
+.text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* background-color: #f0f0f0; */
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: #4c57f1;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  align-items: center;
+}
+
+.btn-order {
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #61f180;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.btn-order:hover {
+  background-color: #61f180;
+}
+
+.burger-image {
+  height: 610px;
+}
